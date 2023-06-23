@@ -1,0 +1,48 @@
+.border-toast {
+    border-left: 10px solid #468BF5;
+    border-radius: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.icon-bg {
+    color: #5243C2;
+    background-color: #d6d5e5;
+    border-radius: 50%;
+}
+
+.btn-color {
+    background-color: #FEF5FA;
+    padding: 10px 60px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+.packages {}
+
+.package-item-down {
+    margin-top: 150px;
+}
+
+.package-inner {
+    padding: 50px 0 0 0;
+
+}
+
+.package-item-special {
+    border-radius: 20px;
+}
+
+.btns-hover:hover {
+    background-color: #FEF5FA;
+    color: #fff;
+}
+
+.hot {
+    position: relative;
+    bottom: 390px;
+    left: 240px;
+}
